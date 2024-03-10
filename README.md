@@ -2,7 +2,7 @@
 
 ## I'm Muriélago
 
-I'm a passionate Network infrastructure and Database ^^
+I'm a passionate of Network infrastructure and Database ^^
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murcielago08&label=Profile%20views&color=0e75b6&style=flat" alt="murcielago08" /> </p>
 
