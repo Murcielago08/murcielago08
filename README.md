@@ -37,7 +37,6 @@ I'm a passionate Network infrastructure and Database ^^
 
 ### Social Networks :
 
-![badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
